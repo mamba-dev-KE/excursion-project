@@ -1,4 +1,4 @@
-# Program Name
+# Excursion Project
 
 Code challenge to refresh on HTML and CSS - ExcursioN Project
 
